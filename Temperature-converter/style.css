@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+}
+.mainbody{
+    position: fixed;
+    top: 150px;
+    left: 450px;
+    background-color:aquamarine;
+    padding: 100px 100px;
+}
+.converter{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: large;
+}
+h1{
+    margin-bottom: 50px;
+}
+.one{
+    margin-bottom: 20px;
+}
+#from{
+    height: 30px;
+    width: 100px; 
+}
+#to{
+    height: 30px;
+    width: 100px;
+}
+#input{
+    height: 30px;
+}
+#output{
+    height: 30px;
+}
