@@ -5,8 +5,8 @@ it shows the about, experience, project and contact section.
 uses only html and css.
 used Bootstrap-icons.
 # languages used
--- HTML
--- CSS
+HTML
+CSS
 # How to use
 clone this repository to your local machine.
 create public folder and in this add the .html file and put all images in assets folder. 
