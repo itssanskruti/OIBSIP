@@ -11,3 +11,7 @@ open the index.html file in the web browser to view the Landing page.
 
 # Screenshots
 
+![l1](https://github.com/itssanskruti/OIBSIP/assets/160560874/32dc98a9-c13b-4593-b0ce-c7a12063d225)
+![l2](https://github.com/itssanskruti/OIBSIP/assets/160560874/b0819b7a-434b-4010-a709-afda7547a20c)
+![l3](https://github.com/itssanskruti/OIBSIP/assets/160560874/379029d9-d7ee-4b1c-a503-fb0b8e4e273f)
+
